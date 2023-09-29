@@ -4,10 +4,10 @@
 
     <string-array name="Categorias">
         <item>Seleccione</item>
-        <item>Comida</item>
-        <item>Deportes</item>
-        <item>Ropa</item>
-        <item>Viajes</item>
+        <item>PC</item>
+        <item>Nintendo Switch</item>
+        <item>PlayStation 5</item>
+        <item>Xbox Series S|X</item>
     </string-array>
 
 </resources>

@@ -17,10 +17,10 @@
 
     <TextView
         android:id="@+id/textViewCategoria"
-        android:layout_width="109dp"
+        android:layout_width="249dp"
         android:layout_height="32dp"
         android:layout_marginTop="16dp"
-        android:text="@string/categorias"
+        android:text="        Juegos Consolas"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
