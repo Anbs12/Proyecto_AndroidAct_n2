@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Proyecto_AndroidAct_n2</string>
+    <string name="categorias">Categorias</string>
+
+    <string-array name="Categorias">
+        <item>Seleccione</item>
+        <item>Comida</item>
+        <item>Deportes</item>
+        <item>Ropa</item>
+        <item>Viajes</item>
+    </string-array>
+
+</resources>
