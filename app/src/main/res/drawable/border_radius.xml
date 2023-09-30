@@ -1,5 +1,14 @@
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Color del fondo-->
     <solid android:color="@color/cardview_light_background" />
 
+    <!-- Corners: curvatura de las esquinas-->
     <corners android:radius="9dp" />
+
+    <!-- stroke: lineas del borde-->
+    <stroke
+        android:width="2dp"
+        android:color="@color/black" />
+
 </shape>
